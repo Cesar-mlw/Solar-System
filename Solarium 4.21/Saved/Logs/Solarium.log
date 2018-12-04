@@ -1506,3 +1506,643 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.04-18.58.19:388][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.12.04-18.58.20:851][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SolaSystem" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/SolaSystem.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.12.04-18.58.20:993][858]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/SolaSystem0BE0E27945CCC275178E5CB510C080E7.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/SolaSystem.umap'
+[2018.12.04-19.13.53:653][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-19.14.03:790][585]LogEditorViewport: Clicking on Actor (LMB): Jupiter_Blueprint_C (Jupiter_Blueprint)
+[2018.12.04-19.14.08:468][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-19.14.08:724][751]LogAssetEditorManager: Opening Asset editor for Material /Game/8k_earth_daymap_Mat.8k_earth_daymap_Mat
+[2018.12.04-19.14.08:727][751]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.08:728][751]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.08:728][751]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.08:728][751]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.08:728][751]LogMaterial: 	(Node TextureSample) Cloud texture> Missing input texture
+[2018.12.04-19.14.08:811][751]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.08:812][751]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.08:812][751]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.08:812][751]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.08:812][751]LogMaterial: 	(Node TextureSample) Cloud texture> Missing input texture
+[2018.12.04-19.14.08:819][751]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.08:821][751]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.08:821][751]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.08:821][751]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.08:821][751]LogMaterial: 	(Node TextureSample) Cloud texture> Missing input texture
+[2018.12.04-19.14.08:857][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.12.04-19.14.08:860][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.12.04-19.14.08:862][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.12.04-19.14.08:864][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.12.04-19.14.08:866][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.04-19.14.08:868][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.04-19.14.08:881][751]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-19.14.08:881][751]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.14.08:881][751]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.08:881][751]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.08:881][751]MaterialEditorStats: Error: [SM5] (Node TextureSample) Cloud texture> Missing input texture
+[2018.12.04-19.14.25:885][485]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.25:886][485]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.25:886][485]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.25:886][485]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.25:897][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.12.04-19.14.25:915][485]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-19.14.25:915][485]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.14.25:931][485]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.25:931][485]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.25:932][485]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.25:932][485]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.25:939][485]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.25:939][485]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.30:400][738]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.30:400][738]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.30:400][738]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.30:400][738]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.30:411][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.04-19.14.30:427][738]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-19.14.30:427][738]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.14.30:441][738]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.30:442][738]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.30:442][738]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.30:442][738]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.46:595][510]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.46:596][510]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.46:596][510]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.46:596][510]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.14.46:611][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.12.04-19.14.46:628][510]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-19.14.46:628][510]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.14.46:642][510]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.14.46:643][510]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.14.46:643][510]LogMaterial: 	(Node TextureSample) Texture To make changes in plain> Missing input texture
+[2018.12.04-19.14.46:643][510]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.15.25:754][145]LogAssetTools: Warning: Failed to import 'C:\Users\Cesar M L Westphal\Downloads\2k_earth_normal_map (1).tif'. Unknown extension 'tif'.
+[2018.12.04-19.16.08:381][482]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Cesar M L Westphal\Downloads\2k_earth_normal_map.jpg)
+[2018.12.04-19.16.08:782][482]LogTexture: Display: Building textures: 2k_earth_normal_map (BC5, 2048X1024)
+[2018.12.04-19.16.12:226][552]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Cesar M L Westphal\Downloads\2k_earth_specular_map.jpg)
+[2018.12.04-19.16.12:269][552]LogTexture: Display: Building textures: 2k_earth_specular_map (AutoDXT, 2048X1024)
+[2018.12.04-19.16.20:797][ 86]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.20:798][ 86]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.16.20:798][ 86]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.16.20:808][ 86]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.12.04-19.16.20:825][ 86]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-19.16.20:825][ 86]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.16.20:841][ 86]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.20:841][ 86]LogMaterial: Warning: /Engine/Transient.8k_earth_daymap_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.16.20:841][ 86]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.16.20:850][ 86]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.16.34:977][831]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.35:003][831]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-19.16.35:004][831]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-19.16.35:004][831]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-19.16.35:004][831]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-19.16.35:009][831]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.12.04-19.16.35:046][831]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.35:351][836]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-19.16.35:363][836]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-19.16.35:582][845]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-19.16.35:723][852]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-19.16.35:894][862]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-19.16.35:980][867]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-19.16.36:078][872]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-19.16.36:201][878]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-19.16.36:415][888]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-19.16.36:432][889]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-19.16.36:508][893]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-19.16.36:590][898]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-19.16.36:711][905]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-19.16.36:763][908]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-19.16.36:840][912]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-19.16.37:318][933]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-19.16.37:553][944]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-19.16.37:787][952]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-19.16.37:830][954]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-19.16.38:096][966]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-19.16.38:317][977]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-19.16.38:663][993]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-19.16.38:776][998]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-19.16.38:819][  0]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-19.16.38:904][  4]LogMaterialEditor: Saving and Compiling material 8k_earth_daymap_Mat
+[2018.12.04-19.16.39:773][  4]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-19.16.39:773][  4]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-19.16.39:773][  4]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-19.16.39:773][  4]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-19.16.39:773][  4]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-19.16.39:813][  4]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.39:941][  4]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-19.16.39:941][  4]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-19.16.39:987][  4]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.40:032][  4]LogMaterial: Display: Missing cached shader map for material 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.40:128][  4]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 8k_earth_daymap_Mat, compiling. 
+[2018.12.04-19.16.43:560][  4]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.04-19.16.43:560][  4]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.04-19.16.43:560][  4]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.04-19.16.43:560][  4]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-19.16.43:561][  4]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.16.43:564][  4]TextureStreamingBuild: Display: Compiling optional shaders took 3.453 seconds.
+[2018.12.04-19.16.47:509][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/8k_earth_daymap_Mat" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/8k_earth_daymap_Mat.uasset" SILENT=true
+[2018.12.04-19.16.47:540][  4]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/8k_earth_daymap_Mat1326F8C74E993E51CDFE30B4BED2B6C7.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/8k_earth_daymap_Mat.uasset'
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: Base pass shader: 134 instructions
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: Base pass shader with Surface Lightmap: 152 instructions
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: Texture samplers: 8/16
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2018.12.04-19.16.47:558][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.04-19.17.13:778][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SolaSystem' took 0.031
+[2018.12.04-19.17.13:779][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2k_earth_normal_map] ([1] browsable assets)...
+[2018.12.04-19.17.13:785][190]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2k_earth_normal_map.2k_earth_normal_map]
+[2018.12.04-19.17.13:785][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/2k_earth_normal_map]
+[2018.12.04-19.17.13:793][190]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/2k_earth_normal_map_Auto20305210D4904B6A57179439797932F00.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/Autosaves/Game/2k_earth_normal_map_Auto2.uasset'
+[2018.12.04-19.17.13:796][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2k_earth_specular_map] ([1] browsable assets)...
+[2018.12.04-19.17.13:801][190]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2k_earth_specular_map.2k_earth_specular_map]
+[2018.12.04-19.17.13:801][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/2k_earth_specular_map]
+[2018.12.04-19.17.13:809][190]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/2k_earth_specular_map_Auto246A214464ABA8A8A1FFF2994CA02CAE6.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/Autosaves/Game/2k_earth_specular_map_Auto2.uasset'
+[2018.12.04-19.17.13:810][190]LogFileHelpers: Auto-saving content packages took 0.031
+[2018.12.04-19.17.26:163][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-19.17.26:297][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SolaSystem" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/SolaSystem.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-19.17.26:461][652]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/SolaSystemB953D5954CBE4E5997771DB21C8171B6.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/SolaSystem.umap'
+[2018.12.04-19.17.34:808][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-19.17.36:411][ 73]LogMaterialEditor: Saving and Compiling material 8k_earth_daymap_Mat
+[2018.12.04-19.17.36:441][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/8k_earth_daymap_Mat" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/8k_earth_daymap_Mat.uasset" SILENT=true
+[2018.12.04-19.17.36:450][ 73]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/8k_earth_daymap_Mat46C004A54FC64B74AF94E7929BD1D04C.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/8k_earth_daymap_Mat.uasset'
+[2018.12.04-19.17.38:656][186]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-19.17.38:663][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SolaSystem.SolaSystem:PersistentLevel' has LevelScriptBlueprint '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem' with GeneratedClass '/Game/SolaSystem.SolaSystem_C' with ClassGeneratedBy '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem'
+[2018.12.04-19.17.38:663][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-19.17.38:663][186]PIE: New page: PIE session: SolaSystem (Dec 4, 2018, 3:17:38 PM)
+[2018.12.04-19.17.38:676][186]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SolaSystem
+[2018.12.04-19.17.38:678][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002155s)
+[2018.12.04-19.17.38:679][186]LogAIModule: Creating AISystem for world SolaSystem
+[2018.12.04-19.17.38:679][186]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.12.04-19.17.38:679][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SolaSystem.SolaSystem to /Game/UEDPIE_0_SolaSystem.SolaSystem (0.003372s)
+[2018.12.04-19.17.38:717][186]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-19.17.38:812][186]LogInit: FAudioDevice initialized.
+[2018.12.04-19.17.38:857][186]LogLoad: Game class is 'GameModeBase'
+[2018.12.04-19.17.38:859][186]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.04-19.17.38:859][186]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.04-19.17.38:859][186]LogWorld: Bringing World /Game/UEDPIE_0_SolaSystem.SolaSystem up for play (max tick rate 0) at 2018.12.04-17.17.38
+[2018.12.04-19.17.38:860][186]LogWorld: Bringing up level for play took: 0.001011
+[2018.12.04-19.17.38:872][186]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.04-19.17.38:877][186]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.12.04-19.17.38:878][186]PIE: Play in editor start time for /Game/UEDPIE_0_SolaSystem -0.504
+[2018.12.04-19.17.38:879][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SolaSystem.SolaSystem:PersistentLevel' has LevelScriptBlueprint '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem' with GeneratedClass '/Game/SolaSystem.SolaSystem_C' with ClassGeneratedBy '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem'
+[2018.12.04-19.17.42:433][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SolaSystem.SolaSystem:PersistentLevel' has LevelScriptBlueprint '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem' with GeneratedClass '/Game/SolaSystem.SolaSystem_C' with ClassGeneratedBy '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem'
+[2018.12.04-19.17.42:434][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-19.17.42:472][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-19.17.42:472][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SolaSystem.SolaSystem:PersistentLevel' has LevelScriptBlueprint '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem' with GeneratedClass '/Game/SolaSystem.SolaSystem_C' with ClassGeneratedBy '/Game/SolaSystem.SolaSystem:PersistentLevel.SolaSystem'
+[2018.12.04-19.17.42:504][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-19.17.42:534][446]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.04-19.17.47:937][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-19.18.02:196][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-19.18.13:595][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-19.18.24:440][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-19.18.24:634][204]LogAssetEditorManager: Opening Asset editor for Material /Game/8k_jupiter_Mat.8k_jupiter_Mat
+[2018.12.04-19.18.24:640][204]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.24:642][204]LogMaterial: Warning: /Engine/Transient.8k_jupiter_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.18.24:642][204]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.18.24:726][204]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.24:728][204]LogMaterial: Warning: /Engine/Transient.8k_jupiter_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.18.24:728][204]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.18.24:731][204]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.24:731][204]LogMaterial: Warning: /Engine/Transient.8k_jupiter_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-19.18.24:732][204]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.18.24:760][204]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.04-19.18.24:770][204]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.12.04-19.18.29:270][461]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.29:298][461]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-19.18.29:298][461]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-19.18.29:298][461]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-19.18.29:298][461]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-19.18.29:305][461]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.04-19.18.29:344][461]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.29:982][485]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-19.18.30:050][489]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-19.18.30:072][490]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-19.18.30:094][491]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-19.18.30:645][519]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-19.18.30:649][519]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-19.18.30:664][520]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-19.18.30:724][523]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-19.18.31:077][539]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-19.18.31:109][541]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-19.18.31:140][543]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-19.18.31:169][545]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-19.18.31:486][561]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-19.18.31:504][562]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-19.18.31:577][566]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-19.18.32:126][593]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-19.18.32:173][596]LogMaterialEditor: Saving and Compiling material 8k_jupiter_Mat
+[2018.12.04-19.18.33:104][596]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-19.18.33:104][596]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-19.18.33:104][596]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-19.18.33:104][596]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-19.18.33:105][596]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-19.18.33:105][596]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-19.18.33:105][596]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-19.18.33:105][596]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-19.18.33:144][596]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.33:354][596]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.33:414][596]LogMaterial: Display: Missing cached shader map for material 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.33:464][596]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-19.18.33:464][596]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-19.18.33:523][596]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 8k_jupiter_Mat, compiling. 
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-19.18.36:861][596]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-19.18.36:864][596]TextureStreamingBuild: Display: Compiling optional shaders took 3.356 seconds.
+[2018.12.04-19.18.40:816][596]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-19.18.40:873][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/8k_jupiter_Mat" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/8k_jupiter_Mat.uasset" SILENT=true
+[2018.12.04-19.18.40:892][596]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/8k_jupiter_MatDD6F55FF40F03800D07FA6994D248730.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/8k_jupiter_Mat.uasset'
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.04-19.18.40:910][596]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.04-19.18.46:424][860]LogSlate: Window 'Save Content' being destroyed
+[2018.12.04-19.18.46:493][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2k_earth_normal_map" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/2k_earth_normal_map.uasset" SILENT=true
+[2018.12.04-19.18.46:704][860]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/2k_earth_normal_map6E8EECE04EBA96E6D280C8B0E43D366B.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/2k_earth_normal_map.uasset'
+[2018.12.04-19.18.46:709][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2k_earth_specular_map" FILE="C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/2k_earth_specular_map.uasset" SILENT=true
+[2018.12.04-19.18.46:838][860]LogSavePackage: Moving 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Saved/2k_earth_specular_mapF97009C748AC133CD28205A12DFC5F49.tmp' to 'C:/Users/Cesar M L Westphal/Documents/Unreal Projects/Solar-System/Solarium 4.21/Content/2k_earth_specular_map.uasset'
+[2018.12.04-19.18.47:569][860]LogSlate: Window 'Solarium - Unreal Editor' being destroyed
+[2018.12.04-19.18.47:570][860]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-19.18.47:850][861]Cmd: QUIT_EDITOR
+[2018.12.04-19.18.48:322][861]LogExit: Preparing to exit.
+[2018.12.04-19.18.48:700][861]LogExit: Editor shut down
+[2018.12.04-19.18.48:701][861]LogExit: Transaction tracking system shut down
+[2018.12.04-19.18.48:965][861]LogExit: Object subsystem successfully closed.
+[2018.12.04-19.18.49:025][861]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.04-19.18.49:026][861]LogD3D11RHI: Shutdown
+[2018.12.04-19.18.49:026][861]LogD3D11RHI: CleanupD3DDevice
+[2018.12.04-19.18.49:028][861]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.04-19.18.49:051][861]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2018.12.04-19.18.49:051][861]LogModuleManager: Shutting down and abandoning module Voice (630)
+[2018.12.04-19.18.49:051][861]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (628)
+[2018.12.04-19.18.49:051][861]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2018.12.04-19.18.49:051][861]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.04-19.18.49:052][861]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.04-19.18.49:053][861]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.04-19.18.49:054][861]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.04-19.18.49:757][861]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.04-19.18.49:758][861]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.04-19.18.49:813][861]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.04-19.18.49:814][861]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.04-19.18.49:818][861]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.04-19.18.50:070][861]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.04-19.18.50:070][861]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.04-19.18.50:070][861]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.04-19.18.50:070][861]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.04-19.18.50:070][861]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.04-19.18.50:070][861]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.04-19.18.50:071][861]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.04-19.18.50:075][861]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.04-19.18.50:076][861]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.04-19.18.50:178][861]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.04-19.18.50:279][861]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.04-19.18.50:280][861]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.04-19.18.50:280][861]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.04-19.18.50:281][861]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.04-19.18.50:281][861]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.04-19.18.50:281][861]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.04-19.18.50:282][861]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.04-19.18.50:283][861]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.04-19.18.50:289][861]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.04-19.18.50:290][861]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.04-19.18.50:290][861]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.04-19.18.50:291][861]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.04-19.18.50:377][861]LogDerivedDataCache: Shutdown
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.04-19.18.50:377][861]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.04-19.18.50:380][861]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.04-19.18.50:381][861]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.04-19.18.50:381][861]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.04-19.18.50:388][861]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.04-19.18.50:388][861]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.04-19.18.50:389][861]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.04-19.18.50:419][861]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.04-19.18.50:419][861]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.04-19.18.50:419][861]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14A3C2BD-47A4-9642-9DBC-C1B9B9B4E78D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=2ea17c1148c8df71559789b96afab07a%7C3fe4f7f0ccb9470f80432891419f8c3c%7C3ab42f76-90ca-44b5-abe7-28dddc98bf64&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.04-19.18.50:447][861]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.04-19.18.50:448][861]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.04-19.18.50:449][861]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.04-19.18.50:449][861]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.04-19.18.50:450][861]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.04-19.18.50:457][861]LogExit: Exiting.
+[2018.12.04-19.18.50:485][861]Log file closed, 12/04/18 17:18:50
